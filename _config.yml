@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=O5fKAhoAAAAJ"
-  email            : "caixr@@shanghaitech.edu.cn"
+  email            : # "caixr@@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
