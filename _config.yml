@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiran Cai"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "信息学院3号楼-3-407B 中科路一号 浦东新区 上海"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Xiran Cai"
   avatar           : "images/avatar.png"
   bio              : "Assistant Professor, 研究员, 博导, ShanghaiTech University"
-  location         : "信息学院3号楼-3-407B 中科路一号 浦东新区 上海"
+  location         : "(021)20684431"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=O5fKAhoAAAAJ"
