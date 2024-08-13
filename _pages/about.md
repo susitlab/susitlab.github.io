@@ -17,7 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I received my Ph.D. from Sorbonne Université, Paris, France, in 2018, under the direction of Pascal Laugier (Member, European Academy of Sciences) and Quentin Grimal. 
+
+From 2018 to 2020, I was in Ferrara Lab at Stanford University for postdoctoral research training under the direction of Katherine W. Ferrara (Member, National Academy of Engineering).
+
+I received the best talk award at the IBDW (2017) and the traveling award of IUS (2017), co-chaired a session at ESUCB 2017.
+
+I am currently an Assistant Professor in the School of Information Science and Technology at ShanghaiTech University.
+
+I received support of ‘Shanghai High-Level Overseas Talent Program’ and a grant from the ‘Shanghai Sailing Program’.
+
+I serve as a reviewer for academic journals including IEEE TUFFC、Ultrasonics、IEEE TMI.
+
+My lab is currently working on ultrasound image reconstruction methods, multi-parametric and mutimodal imaging, monitoring methods for ultrasound therapy, deep learning for ultrasound imaging, instrumentation for medical diagnosis and therapy.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
