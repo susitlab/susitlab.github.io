@@ -443,21 +443,18 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 
 # 🧑‍🎓 Group
 - **Ph.D. Students**
-  + Bikang Pan (2023 Fall - present): B.E. at ShanghaiTech University.
-  + Jiebao Zhang (2023 Fall - present): M.S. at Yunnan University.
+  + Zhu Hui (2020 Fall - present): B.E. at University of Shanghai for Science and Technology.
+  + Shilong Cui (2021 Fall - present): B.E. at Taiyuan Institute of Technology.
 - **Master Students**
-  + Haixiang Sun (2021 Fall - present): B.S. at Beijing Forestry University, Outstanding Graduate in Beijing. 
-  + Pengchao Tian (2021 Fall - present): B.E. at ShanghaiTech University. 
-  + Hongxia Li (2021 Fall - present): B.S. at Nanjing University of Science and Technology.
-  + Wanxing Chang (2021 Fall - present, jointly with Jingya Wang): B.E. at the University of Electronic Science and Technology of China.
-  + Zhongyi Cai (2021 Fall - present, jointly with Jingya Wang): B.E. at ShanghaiTech University. 
-  + Shutong Ding (2022 Fall - present): B.E. at Fuzhou University.
-  + Xinru Xu (2022 Fall - present): B.E. at ShanghaiTech University. 
-  + Tianyu Cui (2022 Fall - present): B.S. at the University of Science and Technology of China. 
-  + Jiangnan Tang (2022 Fall - present): B.E. at Beijing University of Posts and Telecommunications.
-  + Lingxiao Yang (2023 Fall - present): B.E. at Northeastern University.
-  + Haoyu Yan (2023 Fall - present): B.E. at Wuhan University of Technology.
-  + Zichen Jin (2023 Fall - present): B.E. at Northeastern University. 
-- **Visiting Students**
-  + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.  
+  + Bowei Yao(2021 Fall - present): B.S. at Jilin University.
+  + Yifei Li (2021 Fall - present): B.S. at Inner mongolia University.
+  + Yiming Huang (2022 Fall - present): B.E. at Shanghai Technology University.
+  + Yi Zeng (2022 Fall - present): B.E. at Anhui University.
+  + Teng Liang (2022 Fall - present): B.E. at Shanghaitech university.
+  + Yichen Yang (2022 Fall - present): B.E. at Shanghaitech university.
+  + Yihang Lian (2023 Fall - present): B.E. at Shanghaitech university.
+  + Xiaofan Gu (2023 Fall - present): B.E. at Shanghaitech university.
+  + Chenyang Li (2023 Fall - present): B.E. at Shangdong University. 
+<!-- - **Visiting Students** -->
+  <!-- + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.   -->
 
