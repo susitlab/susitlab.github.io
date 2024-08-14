@@ -379,18 +379,16 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 
 # 📖 Educations
-- *2014.02 - 2018.11*, Ph.D., University of Technology Sydney, NSW, Australia. 
-- *2009.09 - 2013.06*, B.S., Northwestern Polytechnical University, Xi'an, China. 
+- *2018*, Ph.D., Sorbonne Université. 
+<!-- - *2009.09 - 2013.06*, B.S., Northwestern Polytechnical University, Xi'an, China.  -->
 
 # 💻 Work Experience
-- **Tenure-track Assistant Professor** (2021.01 -now): 
+- **Assistant Professor** (2020 -now): 
 School of Information Science and Technology, ShanghaiTech University.
-- **Postdoctoral Fellow** (2019.07-2020.12):  
-  + Australian Artificial Intelligence Institute, School of Computer Science, University of Technology Sydney.
-  + Supervisor: Prof. Chin-Teng Lin (IEEE Fellow), E-mail: chin-teng.lin@uts.edu.au.
-- **Research Assistant** (2017.03-2019.06): 
-  + School of Electrical Engineering and Telecommunications, Faculty of Engineering, University of New South Wales.
-  + Supervisor: Prof. Andrey V. Savkin, E-mail: a.savkin@unsw.edu.au
+- **Postdoctoral Fellow** (2018-2020):  
+  + Ferrara Lab, Stanford University
+  + Supervisor: Prof. Katherine W. Ferrara (Member, National Academy of Engineering)
+
 
 # 🎖️ Awards 
 - *2024* My students received the NeurIPS 2023 Scholar Award. 
