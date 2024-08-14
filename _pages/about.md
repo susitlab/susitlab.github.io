@@ -45,9 +45,9 @@ I serve as a reviewer for academic journals including IEEE TUFFC、Ultrasonics�
 
 # 🔊 Position Openings 
 We are currently recruiting students majored in Electrical Engineering, Computer Sciences, Information and Communication Engineering, Biomedical Engineering, Physics and Acoustics.
-<!-- - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
-- **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group;
-- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required.  -->
+<!-- - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV; -->
+<!-- - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group; -->
+<!-- - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required.  -->
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
