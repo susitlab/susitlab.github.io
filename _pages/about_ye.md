@@ -17,25 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. from Sorbonne Université, Paris, France, in 2018, under the direction of Pascal Laugier (Member, European Academy of Sciences) and Quentin Grimal.
-
-From 2018 to 2020, I was in Ferrara Lab at Stanford University for postdoctoral research training under the direction of Katherine W. Ferrara (Member, National Academy of Engineering).
-
-I received the best talk award at the IBDW (2017) and the traveling award of IUS (2017), co-chaired a session at ESUCB 2017.
-
-I am currently an Assistant Professor in the School of Information Science and Technology at ShanghaiTech University.
-
-I received support of ‘Shanghai High-Level Overseas Talent Program’ and a grant from the ‘Shanghai Sailing Program’.
-
-I serve as a reviewer for academic journals including IEEE TUFFC、Ultrasonics、IEEE TMI.
+Dr. Ye Shi received the Ph.D. degree at the University of Technology Sydney (UTS), Australia in 2018. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021.
 
 # ✡️ Research Interests 
 
-- **Ultrasound Imaging:** image reconstruction methods, multi-parametric and multimodal imaging, monitoring methods for ultrasound therapy;
+- **Trustworthy AI:** controllable diffusion models, reliable reinforcement learning, heterogeneous federated learning;  
 
-- **Deep Learning for Medical Imaging:** deep learning techniques applied to ultrasound imaging;
+- **Deep Learning Basics:** implicit differentiation, optimization layer, deep equilibrium models, optimal transport; 
 
-- **Medical Instrumentation:**: development of instruments for medical diagnosis and therapy.
+- **AI \& Optimization Applications**: humanoid robot, 3D vision, smart grid, learn to optimize, etc.
 
 <!-- **Quantum Computing**: quantum annealing, quantum machine learning. -->
 
@@ -44,10 +34,9 @@ I serve as a reviewer for academic journals including IEEE TUFFC、Ultrasonics�
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔊 Position Openings 
-We are currently recruiting students majored in Electrical Engineering, Computer Sciences, Information and Communication Engineering, Biomedical Engineering, Physics and Acoustics.
-<!-- - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
+- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
 - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group;
-- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required.  -->
+- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
