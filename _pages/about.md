@@ -66,12 +66,12 @@ We are currently recruiting students majored in Electrical Engineering, Computer
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, arXiv:2405.16173**
+**Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method, TMI 2024**
 
-Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, **Ye Shi\***
+Hui Zhu; Yi Zeng; Xiran Cai
 
 </div>
 </div>
