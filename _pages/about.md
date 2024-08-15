@@ -400,6 +400,7 @@ School of Information Science and Technology, ShanghaiTech University.
 
 # 🕴️ Activities
 - **Session Chair**
+
 Co-chaired a session at ESUCB 2017.
 - **Program committee**
   <!-- + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024. -->
