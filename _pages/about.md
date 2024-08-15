@@ -391,53 +391,26 @@ School of Information Science and Technology, ShanghaiTech University.
 
 
 # 🎖️ Awards 
-- *2024* My students received the NeurIPS 2023 Scholar Award. 
-- *2021* Best Student Paper Award (Corresponding author) at Australia Artificial Intelligence Institute. 
-- *2019* Outstanding Overseas Students Award, Chinese Ministry of Education, Australia. (A total of 500 people worldwide while only 50 people in Australia). 
-- *2018* FEIT PhD Post Thesis Publication Award, University of Technology Sydney 2018, Australia.
-- *2017* Higher Degree Research Publication Award, University of Technology Sydney, Australia.
-- *2016* Best Paper Award, the 6th IEEE International Conference on Control Systems, Computing and Engineering, Malaysia.
-- *2016* ARC Discovery Scholarship, the University of Technology Sydney, 2014-2016, Australia.
-- *2016* International Research Scholarships, University of Technology Sydney, 2014-2016, Australia.
-- *2013* Meritorious Winner of the Interdisciplinary Contest in Modeling (ICM), The Society for Industrial and Applied Mathematics, America. 
-- *2012* First Prize of Chinese Undergraduate Mathematical Contest for Modeling (CUMCM), China Society for Industrial and Applied Mathematics, China.
-- *2010* National Scholarship, Chinese Ministry of Education, China.
+- *2017* traveling award of IUS.
+- *2017* best talk award at the IBDW.
 
 # 💬 Talks 
-- *2023.11*, Towards Responsible Decision and Control via Implicit Networks, RLChina 2023.
-- *2019.10*, Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, Beijing.
-- *2018.04*, Nonconvex and nonsmooth optimization in smart grids, International Forum for Interdisciplinary Sciences and Engineering Open Forum, Wuhan University.
-- *2016.11*, Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control, IEEE International Conference on Control Systems, Computing and Engineering, Penang, Malaysia.
+
 <!-- - *2018.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🕴️ Activities
 - **Session Chair**
-The 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm 2019).
+Co-chaired a session at ESUCB 2017.
 - **Program committee**
-  + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024.
+  <!-- + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024. -->
 
 - **Reviewer**
-  + IEEE Transactions on Neural Networks and Learning Systems
-  + IEEE Transactions on Image Processing
-  + IEEE Journal on Selected Areas in Communications
-  + IEEE Transactions on Fuzzy System
-  + IEEE Transactions on Smart Grid
-  + IEEE Transactions on Power System
-  + IEEE Transactions on Sustainable Energy
-  + IEEE Transactions on Industrial Informatics
-  + IEEE Transactions on Industrial Electronics
-  + IEEE Transactions on Intelligent Vehicles
-  + IEEE Transactions on Instrumentation & Measurement
-  + IEEE Journal of Biomedical and Health Informatics
-  + IEEE/CAA Journal of Automatica Sinica
-  + IEEE Systems Journal
-  + International Journal of Robust and Nonlinear Control
-  + Information Sciences
-  + Applied Soft Computing
+  + IEEE Transactions on Medical Imaging
+  + IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+  + Ultrasonics
 
 # 🧑‍🏫 Teaching
-- Course SI251 - **Convex Optimization**, ShanghaiTech University, 2021 Spring, 2021 Autumn, 2022 Autumn.
-- Course SI152 - **Numerical Optimization**, ShanghaiTech University, 2022 Spring, 2023 Spring.
+- Course CS270 - **Digital Image Processing**, ShanghaiTech University.
 
 # 🧑‍🎓 Group
 - **Ph.D. Students**
