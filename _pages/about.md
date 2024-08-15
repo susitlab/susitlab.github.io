@@ -66,7 +66,7 @@ We are currently recruiting students majored in Electrical Engineering, Computer
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method, TMI 2024**
@@ -76,12 +76,12 @@ Hui Zhu; Yi Zeng; Xiran Cai
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/DSG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Adv. 2023</div><img src='images/sciadv.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Guidance with Spherical Gaussian Constraint for Conditional Diffusion, ICML 2024**
+**Fast volumetric ultrasound facilitates high-resolution 3D mapping of tissue compartments, Sci. Adv. 2023**
 
-Lingxiao Yang, Shutong Ding, Yifan Cai, Jingyi Yu, Jingya Wang, **Ye Shi\***
+Eun-Yeong Park, Xiran Cai, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Brett Z Fite, Robert Wodnicki, Jeremy J Dahl, Robert D Boutin, Katherine W Ferrara
 
 </div>
 </div>
