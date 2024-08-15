@@ -99,13 +99,14 @@ Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-FedOTP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Biomater. 2019</div><img src='images/elder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Global and Local Prompts Cooperation via Optimal Transport for Federated Learning, CVPR 2024**
+**Anisotropic elastic properties of human femoral cortical bone and relationships with composition and microstructure in elderly, Acta Biomater. 2019**
 
-Hongxia Li, Wei Huang, Jingya Wang, **Ye Shi\***
+HXiran Cai, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, Rémy Gauthier, Boliang Yu, Evelyne Gineyts, Cécile Olivier, Max Langer, Aurelien Gourrier, David Mitton, Françoise Peyrin, Quentin Grimal, Pascal Laugier
 
+[[**paper**]](https://www.sciencedirect.com/science/article/pii/S1742706119302181)
 </div>
 </div>
 
