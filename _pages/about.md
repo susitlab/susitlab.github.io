@@ -73,6 +73,7 @@ We are currently recruiting students majored in Electrical Engineering, Computer
 
 Hui Zhu; Yi Zeng; Xiran Cai
 
+[[**paper**]](https://ieeexplore.ieee.org/document/10387410)
 </div>
 </div>
 
@@ -83,6 +84,7 @@ Hui Zhu; Yi Zeng; Xiran Cai
 
 Eun-Yeong Park, Xiran Cai, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Brett Z Fite, Robert Wodnicki, Jeremy J Dahl, Robert D Boutin, Katherine W Ferrara
 
+[[**paper**]](https://www.science.org/doi/10.1126/sciadv.adg8176)
 </div>
 </div>
 
@@ -93,6 +95,7 @@ Eun-Yeong Park, Xiran Cai, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Brett
 
 Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xiran Cai
 
+[[**paper**]](https://ieeexplore.ieee.org/abstract/document/9999250)
 </div>
 </div>
 
