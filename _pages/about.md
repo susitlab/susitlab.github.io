@@ -86,12 +86,12 @@ Eun-Yeong Park, Xiran Cai, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Brett
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML-FedPGP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TUFFC 2022</div><img src='images/tuffc.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Harmonizing Generalization and Personalization in Federated Prompt Learning, ICML 2024**
+**A signal-domain object segmentation method for ultrasound and photoacoustic computed tomography, TUFFC 2022**
 
-Tianyu Cui, Hongxia Li, Jingya Wang, **Ye Shi\***
+Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xiran Cai
 
 </div>
 </div>
