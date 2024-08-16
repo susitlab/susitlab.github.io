@@ -100,7 +100,7 @@ Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBME 2023</div><img src='images/tbme23_wang2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBME 2023</div><img src='images/tbme23_wang2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Deep-learning-enabled microwave-induced thermoacoustic tomography based on ResAttU-Net for transcranial brain hemorrhage detection, TBME 2023**
