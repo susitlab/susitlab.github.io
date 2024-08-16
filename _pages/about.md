@@ -120,7 +120,7 @@ Josquin Foiret, Xiran Cai, Hanna Bendjador, Eun-Yeong Park, Aya Kamaya, Katherin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materialia 2020</div><img src='images/Materialia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materialia 2020</div><img src='images/materialia.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Anisotropic elastic properties of human cortical bone tissue inferred from inverse homogenization and resonant ultrasound spectroscopy, Materialia 2020**
