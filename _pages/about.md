@@ -143,41 +143,23 @@ Xiran Cai, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R�
 </div>
 </div>
 
-- **Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy**, Qi Li\#, Pengchao Tian\#, **Ye Shi\***, Yuanming Shi and Hoang Duong Tuan, ICCAIS 2022 (Oral). [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990376) 
+- **Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation**, Yuting Shen, Bowei Yao, Xiran Cai, Yuyao Zhang, Fei Gao, arXiv 2024. [[**paper**]](https://arxiv.org/abs/2407.03663) 
   
-- **Distributed model predictive control for joint coordination of demand response and optimal power flow with renewables in smart grid**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Chin-Teng Lin, Jian Guo Zhu, H. Vincent Poor, Applied Energy, 2021. [[**paper**]](https://www.sciencedirect.com/science/article/pii/S0306261921002245)
+- **Sparse-view signal-domain photoacoustic tomography reconstruction method based on neural representation**, Bowei Yao, Yi Zeng, Haizhao Dai, Qing Wu, Youshen Xiao, Fei Gao, Yuyao Zhang, Jingyi Yu, Xiran Cai, arXiv, 2024. [[**paper**]](https://arxiv.org/abs/2406.17578)
   
-- **Hierarchical fuzzy neural networks with privacy preservation on heterogeneous big data**, Leijie Zhang\#, **Ye Shi\#\***, Yu-Cheng Chang, and Chin-Teng Lin, IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186813) [[**code**]](https://github.com/leijiezhang/PP_HFNN)
+- **A Fast Fourier Beamformer for Convex-array Passive Acoustic Mapping**, Hui Zhu, Yi Zeng, Yifei Li, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10306369/) 
   
-- **PMU Placement Optimization for Efficient State Estimation in Smart Grid**, **Ye Shi**, Hoang Duong Tuan\*, Trung Q. Duong, H. Vincent Poor and Andrey V. Savkin, IEEE Journal on Selected Areas in Communications, 2020. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892535)
+- **Accelerating image reconstruction speed in ultrasound computed tomography with structural information**, Shilong Cui, Haizhao Dai, Yiming Huang, Jingyi Yu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10308147/)
 
-- **Parameterized bilinear matrix inequality techniques for H ∞ gain-scheduling proportional integral derivative control design**, **Ye Shi**, Hoang Duong Tuan\* and Pierre Apkarian, International Journal of Robust and Nonlinear Control, 2020. [[**paper**]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.4979)
+- **Speed-of-sound ultrasound computed tomography based on bent ray tracing and multi-layer perceptron**, Yiming Huang, Shilong Cui, Gaofei Jin, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10306606/)
   
-- **Consensus learning for distributed fuzzy neural network in big data environment**, **Ye Shi\***, Chin-Teng Lin, Yu-Cheng Chang, Weiping Ding, Yuhui Shi and Xin Yao, IEEE Transactions on Emerging Topics in Computational Intelligence, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112660)
-  
-- **Deep- IRTarget: An Automatic Target Detector in Infrared Imagery using Dual-domain Feature Extraction and Allocation**, Ruiheng Zhang, Lixin Xu, Zhengyu Yu, **Ye Shi**, Chengpo Mu, Min Xu\*, IEEE Transactions on Multimedia, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9398929)
+- **A signal-domain method to reconstruct object’s boundary for 3D ultrasound computed tomography**, Teng Liang, Gaofei Jin, Yi Zeng, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10307777/)
 
-- **Interpretable Fuzzy Logic Control for Multi-Robot Coordination in a Cluttered Environment**, Yu-Cheng Chang, **Ye Shi**, Anna Dostovalova, Zehong Cao, Chin-Teng Lin\*, Daniel Gibbons, Jijoong Kim, IEEE Transactions on Fuzzy Systems, 2021. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535292)
+- **Light-rotating ring-shape photoacoustic tomography system**, Bowei Yao, Xiyu Chen, Gaofei Jin, Fei Gao, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10307511/)
   
-<!-- **Model predictive control for on-off Charging of Electrical Vehicles in Smart Grids**, **Ye Shi\***, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong and H. Vincent Poor, IET Electrical Systems in Transportation, 2020. [[**paper**]](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/els2.12010) -->
-  
-- **Mixed integer nonlinear programming for Joint Coordination of Plug-in Electrical Vehicles Charging and Smart Grid Operations**, **Ye Shi\***, Hoang Duong Tuan, and Andrey V. Savkin, the 10th IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909799)
-  
-- **Model Predictive Control for Smart Grids with Multiple Electric-Vehicle Charging Stations**, **Ye Shi**, Hoang Duong Tuan, Andrey V. Savkin, Trung Q. Duong\* and H. Vincent Poor, IEEE Transaction on Smart Grid, 2019. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8245844)
-  
-- **Optimal Power Flow over Large-Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Andrey V. Savkin, Steven W. Su, Systems & Control Letters, 2018. [[**paper**]](https://www.sciencedirect.com/science/article/pii/S0167691118300938)
-  
-- **Nonconvex Spectral Optimization Algorithms for Reduced-Order H∞ LPV-LFT controllers**, **Ye Shi**, Hoang Duong Tuan\* and Pierre Apkarian, International Journal of Robust and Nonlinear Control, 2017. [[**paper**]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.3805)
-  
-- **Global Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\* , Hoang Tuy and Steven W. Su, Journal of Global Optimization, 2017. [[**paper**]](https://link.springer.com/article/10.1007/s10898-017-0538-5)
-  
-<!-- **Three-phase Optimal Power Flow for Smart Grids by Iterative Nonsmooth Optimization**, **Ye Shi**, Hoang Duong Tuan\*, and Andrey V. Savkin, accepted by the 6th International Conference on Smart Cities and Green ICT Systems, 2017. [[**paper**]](https://opus.lib.uts.edu.au/bitstream/10453/115847/1/TOPF_SmartGreens17.pdf)-->
-  
-- **Nonconvex Spectral Algorithm for Solving BMI on the Reduced Order H∞ Control**, **Ye Shi\***, Hoang Duong Tuan, and Steven W. Su, accepted by the 6th IEEE International Conference on Control Systems, Computing and Engineering, 2016. (Best Paper Award) [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7893591)
-  
-<!-- **Multiple Matrix Rank Constrained Optimization for Optimal Power Flow over Large Scale Transmission Networks**, **Ye Shi**, Hoang Duong Tuan\*, Steven W. Su, and Andrey V. Savkin, accepted by proceedings of the 5th International Conference on Smart Cities and Green ICT Systems, 2016. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7951375) -->
-  
-- **Nonsmooth Optimization for Optimal Power Flow over Transmission Networks**, **Ye Shi\***, Hoang Duong Tuan, Steven W. Su and H. H. M. Tam, accepted by the 3rd IEEE Global Conference on Signal and Information Processing, 2015. [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7418376)
+- **Ring Array Passive Acoustic Mapping Using Hybrid Heterogeneous Angular Spectrum Method**, Hui Zhu, Yiming Huang, Gaofei Jin, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958620/)
+
+- **A switchable deep beamformer for passive acoustic mapping**, Yi Zeng, Hui Zhu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958130/)
 
 
 # 📖 Educations
