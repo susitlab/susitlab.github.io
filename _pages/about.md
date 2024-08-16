@@ -99,33 +99,23 @@ Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Biomater. 2019</div><img src='images/elder.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBME 2023</div><img src='images/tbme23-wang2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Anisotropic elastic properties of human femoral cortical bone and relationships with composition and microstructure in elderly, Acta Biomater. 2019**
+**Deep-learning-enabled microwave-induced thermoacoustic tomography based on ResAttU-Net for transcranial brain hemorrhage detection, TBME 2023**
 
-HXiran Cai, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, Rémy Gauthier, Boliang Yu, Evelyne Gineyts, Cécile Olivier, Max Langer, Aurelien Gourrier, David Mitton, Françoise Peyrin, Quentin Grimal, Pascal Laugier
-
-[[**paper**]](https://www.sciencedirect.com/science/article/pii/S1742706119302181)
+C Li, Z Xi, G Jin, W Jiang, B Wang, X Cai, X Wang
+[[**paper**]](https://ieeexplore.ieee.org/abstract/document/10042074)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-S2Fusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep. 2022</div><img src='images/scirep22.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**$\text{S}^2$Fusion: A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals, CVPR 2024**
+**Improving plane wave ultrasound imaging through real-time beamformation across multiple arrays, Sci. Rep. 2022**
 
-Jiangnan Tang, Jingya Wang, Kaiyang Ji, Lan Xu, Jingyi Yu, **Ye Shi\***
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-HOI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HOI-M$^3$: Capture Multiple Humans and Objects Interaction within Contextual Environment, CVPR 2024**
-
-Juze Zhang, Jingyan Zhang, Zining Song, Zhanhe Shi, Chengfeng Zhao, **Ye Shi**, Jingyi Yu, Lan Xu, Jingya Wang*
+Josquin Foiret, Xiran Cai, Hanna Bendjador, Eun-Yeong Park, Aya Kamaya, Katherine W Ferrara
 
 </div>
 </div>
@@ -139,6 +129,18 @@ Wei Huang, **Ye Shi**, Zhongyi Cai, Taiji Suzuki
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Biomater. 2019</div><img src='images/elder.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Anisotropic elastic properties of human femoral cortical bone and relationships with composition and microstructure in elderly, Acta Biomater. 2019**
+
+Xiran Cai, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, Rémy Gauthier, Boliang Yu, Evelyne Gineyts, Cécile Olivier, Max Langer, Aurelien Gourrier, David Mitton, Françoise Peyrin, Quentin Grimal, Pascal Laugier
+
+[[**paper**]](https://www.sciencedirect.com/science/article/pii/S1742706119302181)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24_pot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
