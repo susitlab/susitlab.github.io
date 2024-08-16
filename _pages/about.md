@@ -161,6 +161,7 @@ Xiran Cai, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R�
 
 - **A switchable deep beamformer for passive acoustic mapping**, Yi Zeng, Hui Zhu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958130/)
 
+- **LA-Net: Lung Adenocarcinoma Classification with Assistants from Lung Nodule Classification and Positional Information**, Mancheng Meng, Mianxin Liu, Xianjie Zhang, Yuxuan Liu, Xiran Cai, Yaozong Gao, Xiang Zhou, Dinggang Shen, IEEE 19th International Symposium on Biomedical Imaging, 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9761450/)
 
 # 📖 Educations
 - *2018*, Ph.D., Sorbonne Université. 
