@@ -116,16 +116,18 @@ C Li, Z Xi, G Jin, W Jiang, B Wang, X Cai, X Wang
 **Improving plane wave ultrasound imaging through real-time beamformation across multiple arrays, Sci. Rep. 2022**
 
 Josquin Foiret, Xiran Cai, Hanna Bendjador, Eun-Yeong Park, Aya Kamaya, Katherine W Ferrara
-
+[[**paper**]](https://www.nature.com/articles/s41598-022-16961-2)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR24-Fed.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materialia 2020</div><img src='images/Materialia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory, ICLR 2024**
+**Anisotropic elastic properties of human cortical bone tissue inferred from inverse homogenization and resonant ultrasound spectroscopy, Materialia 2020**
 
-Wei Huang, **Ye Shi**, Zhongyi Cai, Taiji Suzuki
+Xiran Cai, Laura Peralta, Renald Brenner, Gianluca Iori, Didier Cassereau, Kay Raum, Pascal Laugier, Quentin Grimal
+
+[[**paper**]](https://www.sciencedirect.com/science/article/abs/pii/S2589152920301472)
 
 </div>
 </div>
@@ -138,213 +140,6 @@ Wei Huang, **Ye Shi**, Zhongyi Cai, Taiji Suzuki
 Xiran Cai, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, Rémy Gauthier, Boliang Yu, Evelyne Gineyts, Cécile Olivier, Max Langer, Aurelien Gourrier, David Mitton, Françoise Peyrin, Quentin Grimal, Pascal Laugier
 
 [[**paper**]](https://www.sciencedirect.com/science/article/pii/S1742706119302181)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24_pot.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport, AAAI 2024**
-
-Bin Li, **Ye Shi**, Qian Yu, Jingya Wang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI24_gait.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations, AAAI 2024**
-
-Yilan Dong, Chunlin Yu, Ruiyang Ha, **Ye Shi**, Yuexin Ma, Lan Xu, Yanwei Fu, Jingya Wang
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Ding.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Reduced Policy Optimization for Continuous Control with Hard Constraints, NeurIPS 2023**
-
-Shutong Ding, Jingya Wang, Yali Du, **Ye Shi\***
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Ding&Cui.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation, NeurIPS 2023**
-
-Shutong Ding\#, Tianyu Cui\#, Jingya Wang, **Ye Shi\***
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Chang.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**CSOT: Curriculum and Structure-Aware Optimal Transport for Learning with Noisy Labels, NeurIPS 2023**
-
-Wanxing Chang, **Ye Shi**, Jingya Wang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Cai.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning, NeurIPS 2023**
-
-Zhongyi Cai, **Ye Shi\***, Wei Huang, Jingya Wang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Yu.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Contextually Affinitive Neighborhood Refinery for Deep Clustering, NeurIPS 2023**
-
-Chunlin Yu, **Ye Shi**, Jingya Wang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications/ICCV23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Knowledge-Aware Federated Active Learning with Non-IID Data, ICCV, 2023**
-
-Yu-Tong Cao, **Ye Shi**, Jingya Wang, Baosheng Yu, Dacheng Tao
-
-[[**paper**]](https://arxiv.org/pdf/2211.13579.pdf) 
-[[**code**]](https://github.com/ycao5602/KAFAL) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/publications/IJCAI23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**StackFLOW: Monocular Human-Object Reconstruction by Stacked Normalizing Flow with Offset, IJCAI, 2023**
-
-Chaofan Huo, **Ye Shi**, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang
-
-[[**paper**]](https://www.ijcai.org/proceedings/2023/0100.pdf) [[**project**]](https://huochf.github.io/StackFLOW/) [[**code**]](https://github.com/huochf/StackFLOW)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/publications/FedTP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**FedTP: Federated Learning by Transformer Personalization, IEEE Transactions on Neural Networks and Learning Systems, 2023**
-
-Hongxia Li\#, Zhongyi Cai\#, Jingya Wang, Jiangnan Tang, Weipng Ding, Chin-Teng Lin, **Ye Shi\***
-
-[[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130784) [[**code**]](https://github.com/zhyczy/FedTP)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/NeuralDome.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions, CVPR 2023**
-
-Juze Zhang, Haimin Luo, Hongdi Yang, Xinru Xu, Qianyang Wu, **Ye Shi**, Jingyi Yu, Lan Xu\*, Jingya Wang\*
-
-[[**paper**]](https://arxiv.org/pdf/2212.07626.pdf) [[**project**]](https://juzezhang.github.io/NeuralDome) [[**video**]](https://www.youtube.com/watch?v=Nb82f5dm2GE)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Cybernetics 2023</div><img src='images/publications/RFNN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Robust Fuzzy Neural Network with an Adaptive Inference Engine, IEEE Transactions on Cybernetics, 2023**
-
-Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*
-
-[[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10045012) [[**code**]](https://github.com/leijiezhang/RFNN)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publications/Alt-diff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Alternating Differentiation for Optimization Layers, ICLR 2023**
-
-Haixiang Sun, **Ye Shi\***, Jingya Wang, Hoang Duong Tuan, H.V. Poor, Dacheng Tao
-
-[[**paper**]](https://openreview.net/pdf?id=KKBMz-EL4tD) [[**code**]](https://github.com/HxSun08/Alt-Diff)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/publications/IKOL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation, AAAI 2023 (oral)**
-
-Juze Zhang, **Ye Shi\***, Yuexin Ma, Lan Xu, Jingyi Yu, Jingya Wang\*
-
-[[**paper**]](https://arxiv.org/pdf/2302.01058.pdf) [[**project**]](https://juzezhang.github.io/IKOL-webpage/) [[**code**]](https://github.com/Juzezhang/IKOL)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 (oral)</div><img src='images/publications/KRC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation, AAAI 2023 (oral)**
-
-Chunlin Yu, **Ye Shi**, Zimo Liu, Shenghua Gao, Jingya Wang\*
-
-[[**paper**]](https://arxiv.org/pdf/2211.16201.pdf) [[**project**]](https://cly234.github.io/KRKC-projectpage/) [[**code**]](https://github.com/cly234/LReID-KRKC)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/publications/UniOT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Unified Optimal Transport Framework for Universal Domain Adaptation, NeurIPS 2022 (Spotlight)**
-
-Wanxing Chang, **Ye Shi\***, Jingya Wang\*, Hoang Duong Tuan
-
-[[**paper**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/bda6843dbbca0b09b8769122e0928fad-Paper-Conference.pdf) [[**project**]](https://changwxx.github.io/UniOT-webpage/) [[**code**]]( https://github.com/changwxx/UniOT-for-UniDA) [[**video**]](https://www.youtube.com/watch?v=RwogtOEUPQQ) [[**VALSE**]](https://www.bilibili.com/video/BV1NM411L7BB/?spm_id_from=333.337.search-card.all.click&vd_source=8275a2758ee7d2cac0897efeb47abf25%2F)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Fuzzy Systems 2022</div><img src='images/publications/FedFNN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Federated Fuzzy Neural Networks with Evolutionary Rule Learning, IEEE Transactions on Fuzzy Systems, 2022**
-
-Leijie Zhang, **Ye Shi\***, Yu-Cheng Chang and Chin-Teng Lin\*
-
-[[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895218) [[**code**]](https://github.com/leijiezhang/FedFNN)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/publications/MAR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation, ACM MM 2022**
-
-Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
-
-[[**paper**]](https://arxiv.org/pdf/2207.07900.pdf)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Fuzzy Systems 2022</div><img src='images/publications/DSFR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Distributed Semi-supervised Fuzzy Regression with Interpolation Consistency Regularization, IEEE Transactions on Fuzzy Systems, 2022**
-
-**Ye Shi\#**, Leijie Zhang\#, Zehong Cao, M. Tanveer and Chin-Teng Lin\* 
-
-[[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512491) [[**code**]](https://github.com/leijiezhang/DSFR)
 </div>
 </div>
 
