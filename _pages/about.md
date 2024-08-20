@@ -87,7 +87,7 @@ Hui Zhu; Yi Zeng; Xiran Cai*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Adv. 2023</div><img src='images/sciadv.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Adv. 2023</div><img src='images/Park_sciadv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Fast volumetric ultrasound facilitates high-resolution 3D mapping of tissue compartments, Sci. Adv. 2023**
@@ -98,7 +98,7 @@ Eun-Yeong Park#, Xiran Cai#, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Bre
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TUFFC 2022</div><img src='images/tuffc.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TUFFC 2022</div><img src='images/Jin_TUFFC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A signal-domain object segmentation method for ultrasound and photoacoustic computed tomography, TUFFC 2022**
