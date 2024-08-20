@@ -21,13 +21,13 @@ I received my Ph.D. from Sorbonne Université, Paris, France, in 2018, under the
 
 From 2018 to 2020, I was in Ferrara Lab at Stanford University for postdoctoral research training under the direction of Katherine W. Ferrara (Member, National Academy of Engineering).
 
-I received the best talk award at the IBDW (2017) and the traveling award of IUS (2017), co-chaired a session at ESUCB 2017.
-
 I am currently an Assistant Professor in the School of Information Science and Technology at ShanghaiTech University.
 
 I received support of ‘Shanghai High-Level Overseas Talent Program’ and a grant from the ‘Shanghai Sailing Program’.
 
-I serve as a reviewer for academic journals including IEEE TUFFC、Ultrasonics、IEEE TMI.
+I received the second place award for the talk presented at the Youth Forum of 2023 WIFUMB, the best talk award at the IBDW (2017) and the traveling award of IUS (2017).
+
+I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, and as a reviewer for IEEE TMI、IEEE TUFFC、Ultrasonics、Ultrasound in Medicine & Biology、Acta Biomaterilia、Scientific Reports、Measurement、声学学报、Ultrasonic Imaging、Nanoscale, etc.
 
 # ✡️ Research Interests 
 
@@ -44,7 +44,10 @@ I serve as a reviewer for academic journals including IEEE TUFFC、Ultrasonics�
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔊 Position Openings 
-We are currently recruiting students majored in Electrical Engineering, Computer Sciences, Information and Communication Engineering, Biomedical Engineering, Physics and Acoustics.
+ - **Postgraduate Students:** We recruit 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Signal Processing, Image Processing, Medical Imaging, Wave Physics, Artificial Intelligence, Circuit Design, Instrumentation, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
+ - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Electrical Engineering, Computer Science, Information and Communication Engineering, Biomedical Engineering, Machine Learning, Mathematics, Physics and Acoustics, Information and Communication Engineering, and other related disciplines to join our group;
+<!-- - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required.  -->
+
 <!-- - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV; -->
 <!-- - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Machine Learning, Computer Science, Mathematics, Electric Engineering, Information and Communication Engineering, and other related disciplines to join our group; -->
 <!-- - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required.  -->
