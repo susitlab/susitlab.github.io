@@ -175,7 +175,7 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 
 # 🛠️ Equipments
 
-> 实验室目前拥有的部分设备展示
+> <font face="黑体" size="8">实验室目前拥有的部分设备展示</font>
 
 
 ![image info](images/equips.png)
