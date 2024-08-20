@@ -54,6 +54,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+
 - *2024.05*: Hui Zhu has published a paper titled "Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method" in IEEE Transactions on Medical Imaging ( Volume: 43, Issue: 5, May 2024). Details can be found following the [link](https://ieeexplore.ieee.org/document/10387410)
 - *2023.05*: Congratulations to the first cohort of students from our research group—Jin Gaofei, Xu Xuan, and Meng Mancheng—on successfully defending their master’s theses. They are now embarking on new journeys in life, with Jin Gaofei heading to the U.S. for further studie (fully funded Ph.D. at the University of Rochester) and Xu Xuan and Meng Mancheng entering the industry (Huawei, LianYing)!
 - *2023.05*: SUSIT lab had eight conference abstracts accepted by the prestigious IEEE International Ultrasonics Symposium this year. Congratulations to the eight students in our group (including one undergraduate from ShanghaiTech University)!
@@ -74,7 +75,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 **Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method, TMI 2024**
 
-Hui Zhu; Yi Zeng; Xiran Cai
+Hui Zhu; Yi Zeng; Xiran Cai*
 
 [[**paper**]](https://ieeexplore.ieee.org/document/10387410)
 </div>
@@ -85,7 +86,7 @@ Hui Zhu; Yi Zeng; Xiran Cai
 
 **Fast volumetric ultrasound facilitates high-resolution 3D mapping of tissue compartments, Sci. Adv. 2023**
 
-Eun-Yeong Park, Xiran Cai, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Brett Z Fite, Robert Wodnicki, Jeremy J Dahl, Robert D Boutin, Katherine W Ferrara
+Eun-Yeong Park#, Xiran Cai#, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Brett Z Fite, Robert Wodnicki, Jeremy J Dahl, Robert D Boutin, Katherine W Ferrara
 
 [[**paper**]](https://www.science.org/doi/10.1126/sciadv.adg8176)
 </div>
@@ -96,7 +97,7 @@ Eun-Yeong Park, Xiran Cai, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Brett
 
 **A signal-domain object segmentation method for ultrasound and photoacoustic computed tomography, TUFFC 2022**
 
-Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xiran Cai
+Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xiran Cai*
 
 [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9999250)
 </div>
@@ -108,7 +109,7 @@ Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xi
 
 **Deep-learning-enabled microwave-induced thermoacoustic tomography based on ResAttU-Net for transcranial brain hemorrhage detection, TBME 2023**
 
-C Li, Z Xi, G Jin, W Jiang, B Wang, X Cai, X Wang
+C Li, Z Xi, G Jin, W Jiang, B Wang, X Cai, X Wang*
 [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10042074)
 </div>
 </div>
@@ -128,25 +129,25 @@ Josquin Foiret, Xiran Cai, Hanna Bendjador, Eun-Yeong Park, Aya Kamaya, Katherin
 
 **Anisotropic elastic properties of human cortical bone tissue inferred from inverse homogenization and resonant ultrasound spectroscopy, Materialia 2020**
 
-Xiran Cai, Laura Peralta, Renald Brenner, Gianluca Iori, Didier Cassereau, Kay Raum, Pascal Laugier, Quentin Grimal
+Xiran Cai*, Laura Peralta, Renald Brenner, Gianluca Iori, Didier Cassereau, Kay Raum, Pascal Laugier, Quentin Grimal
 
 [[**paper**]](https://www.sciencedirect.com/science/article/abs/pii/S2589152920301472)
 
 </div>
-</div>
+</div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Biomater. 2019</div><img src='images/elder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Anisotropic elastic properties of human femoral cortical bone and relationships with composition and microstructure in elderly, Acta Biomater. 2019**
 
-Xiran Cai, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, Rémy Gauthier, Boliang Yu, Evelyne Gineyts, Cécile Olivier, Max Langer, Aurelien Gourrier, David Mitton, Françoise Peyrin, Quentin Grimal, Pascal Laugier
+Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, Rémy Gauthier, Boliang Yu, Evelyne Gineyts, Cécile Olivier, Max Langer, Aurelien Gourrier, David Mitton, Françoise Peyrin, Quentin Grimal, Pascal Laugier
 
 [[**paper**]](https://www.sciencedirect.com/science/article/pii/S1742706119302181)
 </div>
 </div>
 
-- **Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation**, Yuting Shen, Bowei Yao, Xiran Cai, Yuyao Zhang, Fei Gao, arXiv 2024. [[**paper**]](https://arxiv.org/abs/2407.03663) 
+- **Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation**, Yuting Shen, Bowei Yao, Xiran Cai, Yuyao Zhang, Fei Gao, arXiv 2024. [[**paper**]](https://arxiv.org/abs/2407.03663)
   
 - **Sparse-view signal-domain photoacoustic tomography reconstruction method based on neural representation**, Bowei Yao, Yi Zeng, Haizhao Dai, Qing Wu, Youshen Xiao, Fei Gao, Yuyao Zhang, Jingyi Yu, Xiran Cai, arXiv, 2024. [[**paper**]](https://arxiv.org/abs/2406.17578)
   
@@ -173,21 +174,31 @@ Xiran Cai, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R�
 - **Assistant Professor** (2020 -now): 
 School of Information Science and Technology, ShanghaiTech University.
 - **Postdoctoral Fellow** (2018-2020):  
-  + Ferrara Lab, Stanford University
+  + Department of Radiology, School of Medicine, Stanford University
   + Supervisor: Prof. Katherine W. Ferrara (Member, National Academy of Engineering)
 
-
 # 🎖️ Awards 
-- *2017* traveling award of IUS.
-- *2017* best talk award at the IBDW.
+- *2024* Student Award Finalist (awarded to Hui Zhu), ISTU.
+- *2024* Student Poster Award Finalist (awarded to Yi Zeng), ISTU.
+- *2024* 最佳反演效果奖 (awarded to 崔世龙), , AI4S Cup-超声CT成像中的声场预测.
+- *2024* 三等奖 (awarded to 崔世龙), AI4S Cup-超声CT成像中的声场预测.
+- *2024* 三等奖 (awarded to 连奕航), AI4S Cup-超声CT成像中的声场预测.
+- *2023* Student Traveling Award (awarded to Hui Zhu), IEEE IUS.
+- *2023* 青年论坛报告二等奖, 西湖国际超声医学论坛暨国际超声造影会议.
+- *2017* Student Traveling Award, IEEE IUS.
+- *2017* Best Talk Award, IBDW.
 
 # 💬 Talks 
 
 <!-- - *2018.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- *2023.07* 高分辨率被动空化成像方法研究, 2022-2023全国声学大会, 特邀报告.
+- *2024.03* 聚焦超声治疗及图像引导技术简介, 复旦大学，邀请报告.
+- *2023.11* 声空化活动的快速定位成像方法研究, 重庆医科大学，邀请报告.
+- *2023.10* 超声空化活动实时大视场成像方法, 西湖国际超声医学论坛暨国际超声造影会议.
 
 # 🕴️ Activities
 - **Session Chair**
-  + Co-chaired a session at ESUCB 2017.
+  + IEEE IUS 2023 2024, ESUCB 2017.
 - **Program committee**
   <!-- + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024. -->
 
@@ -195,24 +206,41 @@ School of Information Science and Technology, ShanghaiTech University.
   + IEEE Transactions on Medical Imaging
   + IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
   + Ultrasonics
+  + Ultrasound in Medicine & Biology
+  + Acta Biomaterilia
+  + Scientific Reports
+  + Measurement
+  + 声学学报
+  + Ultrasonic Imaging
+  + Nanoscale
 
 # 🧑‍🏫 Teaching
-- Course CS270 - **Digital Image Processing**, ShanghaiTech University.
+- Course EE150 - **Signal and Systems**, ShanghaiTech University, 2022 Autumn, 2023 Autumn.
+- Course CS270 - **Digital Image Processing**, ShanghaiTech University, 2021 Spring, 2022 Spring, 2023 Spring, 2024 Spring.
+- Course EE290Y - **Physics in Medical Imaging**, ShanghaiTech University, 2021 Summer.
+- Course EE290X - **Electric circuit (Basics)**, ShanghaiTech University, 2021 Autumn, 2022 Autumn.
 
 # 🧑‍🎓 Group
 - **Ph.D. Students**
   + Zhu Hui (2020 Fall - present): B.E. at University of Shanghai for Science and Technology.
   + Shilong Cui (2021 Fall - present): B.E. at Taiyuan Institute of Technology.
+  + Yi Zeng (2022 Fall - present): B.E. at Anhui University.
 - **Master Students**
-  + Bowei Yao(2021 Fall - present): B.S. at Jilin University.
+  + Bowei Yao (2021 Fall - present): B.S. at Jilin University.
   + Yifei Li (2021 Fall - present): B.S. at Inner mongolia University.
   + Yiming Huang (2022 Fall - present): B.E. at Shanghai Technology University.
-  + Yi Zeng (2022 Fall - present): B.E. at Anhui University.
-  + Teng Liang (2022 Fall - present): B.E. at Shanghaitech university.
-  + Yichen Yang (2022 Fall - present): B.E. at Shanghaitech university.
-  + Yihang Lian (2023 Fall - present): B.E. at Shanghaitech university.
-  + Xiaofan Gu (2023 Fall - present): B.E. at Shanghaitech university.
+  + Teng Liang (2022 Fall - present): B.E. at Shanghaitech University.
+  + Chenguang Wang (2022 Fall - present): B.E. at Shanghaitech University.
+  + Yichen Yang (2022 Fall - present): B.E. at Shanghaitech University.
+  + Yihang Lian (2023 Fall - present): B.E. at Shanghaitech University.
+  + Xiaofan Gu (2023 Fall - present): B.E. at Shanghaitech University.
   + Chenyang Li (2023 Fall - present): B.E. at Shangdong University. 
+- **Undergrads**
+  + Suian Zhou (2023 Fall - present), ShanghaiTech University
+- **Alumni**
+  + Gaofei Jin (2020 - 2023), Currently an PhD candidate at the University of Rochester, United States.
+  + Xuan Xu (2020 - 2023), Currently an Engineer at Huawei Technologies Co., Ltd.
+  + Mancheng Meng (2020 - 2023), Currently an Engineer at United Imaging Healthcare Co.,Ltd.
 <!-- - **Visiting Students** -->
   <!-- + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.   -->
 
