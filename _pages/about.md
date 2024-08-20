@@ -174,14 +174,7 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 - **LA-Net: Lung Adenocarcinoma Classification with Assistants from Lung Nodule Classification and Positional Information**, Mancheng Meng, Mianxin Liu, Xianjie Zhang, Yuxuan Liu, Xiran Cai, Yaozong Gao, Xiang Zhou, Dinggang Shen, IEEE 19th International Symposium on Biomedical Imaging, 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9761450/)
 
 # 🛠️ Equipments
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/equip.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-details
-
-
-</div>
-</div> 
+![image info](images/equip.png)
 
 # 📖 Educations
 - *2018*, Ph.D., Sorbonne Université. 
