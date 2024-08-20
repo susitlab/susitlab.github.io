@@ -54,13 +54,19 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
-
+- *2024.06*: Three abstracts accepted by 2024 IEEE International Ultrasonics Symposium (IUS). Congratulations to Bowei Yao, Yi Zeng and Hui Zhu!
 - *2024.05*: Hui Zhu has published a paper titled "Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method" in IEEE Transactions on Medical Imaging ( Volume: 43, Issue: 5, May 2024). Details can be found following the [link](https://ieeexplore.ieee.org/document/10387410)
+- *2024.05*: Congratulations to Yi Zeng and Hui Zhu! Their works on passive acoustic mapping have been selected to compete for the Student Award and Student Poster Award by 2024 International Symposium on Therapeutic Ultrasound (ISTU), and they both received the Student Registration Award for ISTU 2024.
+- *2024.05*: 祝贺崔世龙、连奕航同学在”AI4S Cup-超声CT成像中的声场预测“比赛中获奖。崔世龙获得声场预测“三等奖”和“最佳反演效果奖”，连奕航获得声场预测“三等奖”。
+- *2024.05*: Yi Zeng successfully defended his application of MS to PhD conversion. 
+- *2023.10*: 我的报告在西湖国际超声医学论坛暨国际超声造影会议获得青年论坛报告二等奖。
+- *2023.05*: I and collaborator published a paper titled "Fast volumetric ultrasound facilitates high-resolution 3D mapping of tissue compartments" in Science Advances ( Volume: 9, Issue: 22, May 2023). Details can be found following the [link](https://www.science.org/doi/10.1126/sciadv.adg8176)
 - *2023.05*: Congratulations to the first cohort of students from our research group—Jin Gaofei, Xu Xuan, and Meng Mancheng—on successfully defending their master’s theses. They are now embarking on new journeys in life, with Jin Gaofei heading to the U.S. for further studie (fully funded Ph.D. at the University of Rochester) and Xu Xuan and Meng Mancheng entering the industry (Huawei, LianYing)!
 - *2023.05*: SUSIT lab had eight conference abstracts accepted by the prestigious IEEE International Ultrasonics Symposium this year. Congratulations to the eight students in our group (including one undergraduate from ShanghaiTech University)!
+- *2023.05*: Shilong Cui successfully defended his application of MS to PhD conversion. 
 - *2023.03*: Gaofei Jin has published a paper titled "A Signal-Domain Object Segmentation Method for Ultrasound and Photoacoustic Computed Tomography" in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Volume: 70, Issue: 3, March 2023). Details can be found following the [link](https://ieeexplore.ieee.org/document/9999250)
 - *2022.09*: SUSIT lab welcomes 2 new members (Undergrads), Yiming Huang, Chenguang Wang. 
-- *2022.06*: The prestigious 2022's IEEE International Ultrasonics Symposium (IUS) has accepted two abstracts submitted by Yi Zheng and Hui Zhu, respectively. They will present their works at the conference to be held in Venice, Italy, on October 10-13, 2022. Congratulations!
+- *2022.06*: The prestigious 2022 IEEE International Ultrasonics Symposium (IUS) has accepted two abstracts submitted by Yi Zheng and Hui Zhu, respectively. They will present their works at the conference to be held in Venice, Italy, on October 10-13, 2022. Congratulations!
 - *2022.05*: Hui Zhu successfully defended her application of MS to PhD conversion. 
 - *2022.05*: Xiran Cai has published two chapters in the book “Bone Quantitative Ultrasound New Horizons”, reporting the latest development of resonant ultrasound spectroscopy for high damping solids and its application in measuring the anisotropic stiffness of hard tissue. Details can be found following the [link](https://link.springer.com/book/10.1007/978-3-030-91979-5)
 - *2021.12*: Xiran Cai received the support of “Shanghai Overseas Talent Program”. 
@@ -103,7 +109,7 @@ Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xi
 </div>
 </div>
 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBME 2023</div><img src='images/tbme23_wang2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -113,7 +119,7 @@ C Li, Z Xi, G Jin, W Jiang, B Wang, X Cai, X Wang*
 [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10042074)
 </div>
 </div>
-
+--> 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep. 2022</div><img src='images/scirep22.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
