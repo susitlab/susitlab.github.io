@@ -44,7 +44,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔊 Position Openings 
- - **Postgraduate Students:** We recruit 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Signal Processing, Image Processing, Medical Imaging, Wave Physics, Artificial Intelligence, Circuit Design, Instrumentation, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
+ - **Postgraduate Students:** We recruit 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Signal Processing, Image Processing, Medical Imaging, Wave Physics, Artificial Intelligence, Parallel Computation, Circuit Design, Instrumentation, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
  - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Electrical Engineering, Computer Science, Information and Communication Engineering, Biomedical Engineering, Machine Learning, Mathematics, Physics and Acoustics, Information and Communication Engineering, and other related disciplines to join our group;
 <!-- - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required.  -->
 
@@ -76,10 +76,10 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMI 2024</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method, TMI 2024**
+**Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method, IEEE Trans. Med. Imag. 2024**
 
 Hui Zhu; Yi Zeng; Xiran Cai*
 
@@ -98,10 +98,10 @@ Eun-Yeong Park#, Xiran Cai#, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Bre
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TUFFC 2022</div><img src='images/Jin_TUFFC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2023</div><img src='images/Jin_TUFFC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A signal-domain object segmentation method for ultrasound and photoacoustic computed tomography, TUFFC 2022**
+**A signal-domain object segmentation method for ultrasound and photoacoustic computed tomography, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2023**
 
 Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xiran Cai*
 
@@ -175,13 +175,14 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 
 # 🛠️ Equipments
 
-><font face="黑体" size="4">实验室目前拥有的部分设备展示</font>
+><font face="黑体" size="4">实验室拥有一流的医学超声研究设备，包括1024通道容积超声研究平台、256通道高强度聚焦超声研究平台、各类医学成像探头（面阵、半球阵、环阵、线阵、凸阵、相控阵），三维声场扫描平台等，部分设备展示如下。</font>
 
 
 ![image info](images/equips.png)
 
-# 📖 Educations
+# 📖 Education
 - *2018*, Ph.D., Sorbonne Université. 
+  + Supervisor: Prof. Pascal Laugier (Member,  European Academy of Sciences), Prof. Quentin Grimal
 <!-- - *2009.09 - 2013.06*, B.S., Northwestern Polytechnical University, Xi'an, China.  -->
 
 # 💻 Work Experience
@@ -213,7 +214,7 @@ School of Information Science and Technology, ShanghaiTech University.
 # 🕴️ Activities
 - **Session Chair**
   + IEEE IUS 2023 2024, ESUCB 2017.
-- **Program committee**
+  <!--- **Program committee**-->
   <!-- + NeurIPS 2023, AAAI 2023, AAAI 2024, CVPR 2024, ICLR 2024. -->
 
 - **Reviewer**
