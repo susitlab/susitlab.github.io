@@ -22,7 +22,7 @@ main:
     url: "/#-group"
 
   - title: "Equipments"
-    url: "/#-equipments"
+    url: "/#-Equipments"
 
   # - title: "Teaching"
   #   url: "/#-teaching"
