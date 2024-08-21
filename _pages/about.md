@@ -252,7 +252,7 @@ School of Information Science and Technology, ShanghaiTech University.
 <!-- - **Visiting Students** -->
   <!-- + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.   -->
 
-# 🛠️ Equipments
+# Equipments
 
 ><font face="黑体" size="4">实验室拥有一流的医学超声研究设备，包括1024通道容积超声研究平台、256通道高强度聚焦超声研究平台、各类医学成像探头（面阵、半球阵、环阵、线阵、凸阵、相控阵），三维声场扫描平台等，部分设备展示如下。</font>
 
