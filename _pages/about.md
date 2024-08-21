@@ -76,7 +76,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMI 2024</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method, IEEE Trans. Med. Imag. 2024**
@@ -98,10 +98,10 @@ Eun-Yeong Park#, Xiran Cai#, Josquin Foiret, Hanna Bendjador, Dongwoon Hyun, Bre
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TUFFC 2022</div><img src='images/Jin_TUFFC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2023</div><img src='images/Jin_TUFFC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A signal-domain object segmentation method for ultrasound and photoacoustic computed tomography, TUFFC 2022**
+**A signal-domain object segmentation method for ultrasound and photoacoustic computed tomography, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2023**
 
 Gaofei Jin, Hui Zhu, Daohuai Jiang, Jinwei Li, Lili Su, Jianfeng Li, Fei Gao, Xiran Cai*
 
