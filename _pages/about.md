@@ -79,7 +79,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method, TMI 2024**
+**Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method, IEEE Trans. Med. Imag. 2024**
 
 Hui Zhu; Yi Zeng; Xiran Cai*
 
