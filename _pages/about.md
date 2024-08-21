@@ -182,6 +182,7 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 
 # 📖 Education
 - *2018*, Ph.D., Sorbonne Université. 
+  + Supervisor: Prof. Pascal Laugier (Member,  European Academy of Sciences), Prof. Quentin Grimal
 <!-- - *2009.09 - 2013.06*, B.S., Northwestern Polytechnical University, Xi'an, China.  -->
 
 # 💻 Work Experience
