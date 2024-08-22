@@ -23,7 +23,7 @@ From 2018 to 2020, I was in Ferrara Lab at Stanford University for postdoctoral 
 
 I am currently an Assistant Professor in the School of Information Science and Technology at ShanghaiTech University.
 
-I received support of ‘Shanghai High-Level Overseas Talent Program’ and a grant from the ‘Shanghai Sailing Program’.
+I received support of ‘Shanghai High-Level Overseas Talent Program’, a grant from the ‘Shanghai Sailing Program’ and a grant from 'Key Laboratory of Biomedical Imaging Science and System, Chinese Academy of Sciences'.
 
 I received the second place award for the talk presented at the Youth Forum of 2023 WIFUMB, the best talk award at the IBDW (2017) and the traveling award of IUS (2017).
 
@@ -59,6 +59,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 - *2024.05*: Congratulations to Yi Zeng and Hui Zhu! Their works on passive acoustic mapping have been selected to compete for the Student Award and Student Poster Award by 2024 International Symposium on Therapeutic Ultrasound (ISTU), and they both received the Student Registration Award for ISTU 2024.
 - *2024.05*: 祝贺崔世龙、连奕航同学在”AI4S Cup-超声CT成像中的声场预测“比赛中获奖。崔世龙获得声场预测“三等奖”和“最佳反演效果奖”，连奕航获得声场预测“三等奖”。
 - *2024.05*: Yi Zeng successfully defended his application of MS to PhD conversion. 
+- *2023.11*: 课题组获批2023年度医学成像科学与技术系统中国科学院(全国)重点实验室一般开放基金项目1项。
 - *2023.10*: 我的报告在西湖国际超声医学论坛暨国际超声造影会议获得青年论坛报告二等奖。
 - *2023.05*: I and collaborator published a paper titled "Fast volumetric ultrasound facilitates high-resolution 3D mapping of tissue compartments" in Science Advances ( Volume: 9, Issue: 22, May 2023). Details can be found following the [link](https://www.science.org/doi/10.1126/sciadv.adg8176)
 - *2023.05*: Congratulations to the first cohort of students from our research group—Jin Gaofei, Xu Xuan, and Meng Mancheng—on successfully defending their master’s theses. They are now embarking on new journeys in life, with Jin Gaofei heading to the U.S. for further studie (fully funded Ph.D. at the University of Rochester) and Xu Xuan and Meng Mancheng entering the industry (Huawei, LianYing)!
