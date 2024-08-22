@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-educations"
+    url: "/#-education"
 
   - title: "News"
     url: "/#-news"
@@ -20,6 +20,9 @@ main:
 
   - title: "Group"
     url: "/#-group"
+
+  - title: "Equipments"
+    url: "/#equipments"
 
   # - title: "Teaching"
   #   url: "/#-teaching"

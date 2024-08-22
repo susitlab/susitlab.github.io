@@ -174,13 +174,6 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 
 - **LA-Net: Lung Adenocarcinoma Classification with Assistants from Lung Nodule Classification and Positional Information**, Mancheng Meng, Mianxin Liu, Xianjie Zhang, Yuxuan Liu, Xiran Cai, Yaozong Gao, Xiang Zhou, Dinggang Shen, IEEE 19th International Symposium on Biomedical Imaging, 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9761450/)
 
-# 🛠️ Equipments
-
-><font face="黑体" size="4">实验室拥有一流的医学超声研究设备，包括1024通道容积超声研究平台、256通道高强度聚焦超声研究平台、各类医学成像探头（面阵、半球阵、环阵、线阵、凸阵、相控阵），三维声场扫描平台等，部分设备展示如下。</font>
-
-
-![image info](images/equips.png)
-
 # 📖 Education
 - *2018*, Ph.D., Sorbonne Université. 
   + Supervisor: Prof. Pascal Laugier (Member,  European Academy of Sciences), Prof. Quentin Grimal
@@ -260,3 +253,9 @@ School of Information Science and Technology, ShanghaiTech University.
 <!-- - **Visiting Students** -->
   <!-- + Qi Li (2022 Spring - present): B.S. in Applied Mathematics, ShanghaiTech University; M.S. in Applied Mathematics, Johns Hopkins University.   -->
 
+<h1 id="equipments"> 🛠️ Equipments</h1>
+
+><font face="黑体" size="4">实验室拥有一流的医学超声研究设备，包括1024通道容积超声研究平台、256通道高强度聚焦超声研究平台、各类医学成像探头（面阵、半球阵、环阵、线阵、凸阵、相控阵），三维声场扫描平台等，部分设备展示如下。</font>
+
+
+![image info](images/equips.png)
