@@ -23,7 +23,7 @@ From 2018 to 2020, I was in Ferrara Lab at Stanford University for postdoctoral 
 
 I am currently an Assistant Professor in the School of Information Science and Technology at ShanghaiTech University.
 
-I received support of ‘Shanghai High-Level Overseas Talent Program’, a grant from the ‘Shanghai Sailing Program’ and a grant from 'Key Laboratory of Biomedical Imaging Science and System, Chinese Academy of Sciences'.
+I received support by ‘Shanghai High-Level Overseas Talent Program’, a grant from the ‘Shanghai Sailing Program’ and a grant from 'Key Laboratory of Biomedical Imaging Science and System, Chinese Academy of Sciences'.
 
 I received the second place award for the talk presented at the Youth Forum of 2023 WIFUMB, the best talk award at the IBDW (2017) and the traveling award of IUS (2017).
 
