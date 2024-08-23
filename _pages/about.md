@@ -161,9 +161,9 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
   
 - **A Fast Fourier Beamformer for Convex-array Passive Acoustic Mapping**, Hui Zhu, Yi Zeng, Yifei Li, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10306369/) 
   
-- **Accelerating image reconstruction speed in ultrasound computed tomography with structural information**, Shilong Cui, Haizhao Dai, Yiming Huang, Jingyi Yu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10308147/)
+- **Accelerating image reconstruction speed in ultrasound computed tomography with structural information**, Yiming Huang, Shilong Cui, Gaofei Jin, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10306606/)
 
-- **Speed-of-sound ultrasound computed tomography based on bent ray tracing and multi-layer perceptron**, Yiming Huang, Shilong Cui, Gaofei Jin, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10306606/)
+- **Speed-of-sound ultrasound computed tomography based on bent ray tracing and multi-layer perceptron**, Shilong Cui, Haizhao Dai, Yiming Huang, Jingyi Yu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10308147/)
   
 - **A signal-domain method to reconstruct object’s boundary for 3D ultrasound computed tomography**, Teng Liang, Gaofei Jin, Yi Zeng, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2023. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/10307777/)
 
