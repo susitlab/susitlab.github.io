@@ -23,7 +23,7 @@ From 2018 to 2020, I was in Ferrara Lab at Stanford University for postdoctoral 
 
 I am currently an Assistant Professor in the School of Information Science and Technology at ShanghaiTech University.
 
-Our work are supported by 'National Natural Science Foundation of China', ‘Shanghai High-Level Overseas Talent Program’, ‘Shanghai Sailing Program’ and a grant from 'Key Laboratory of Biomedical Imaging Science and System, Chinese Academy of Sciences'.
+Our work is supported by 'National Natural Science Foundation of China', ‘Shanghai High-Level Overseas Talent Program’, ‘Shanghai Sailing Program’ and a grant from 'Key Laboratory of Biomedical Imaging Science and System, Chinese Academy of Sciences'.
 
 I received the second place award for the talk presented at the Youth Forum of 2023 WIFUMB, the best talk award at the IBDW (2017) and the traveling award of IUS (2017).
 
@@ -54,7 +54,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
-- *2024.08*: We received a grant approved by 'National Natural Science Foundation of China'.
+- *2024.08*: Our grant proposal received the support from 'National Natural Science Foundation of China'.
 - *2024.06*: Three abstracts accepted by 2024 IEEE International Ultrasonics Symposium (IUS). Congratulations to Bowei Yao, Yi Zeng and Hui Zhu!
 - *2024.05*: Hui Zhu has published a paper titled "Passive Acoustic Mapping for Convex Arrays With the Helical Wave Spectrum Method" in IEEE Transactions on Medical Imaging ( Volume: 43, Issue: 5, May 2024). Details can be found following the [link](https://ieeexplore.ieee.org/document/10387410)
 - *2024.05*: Congratulations to Yi Zeng and Hui Zhu! Their works on passive acoustic mapping have been selected to compete for the Student Award and Student Poster Award by 2024 International Symposium on Therapeutic Ultrasound (ISTU), and they both received the Student Registration Award for ISTU 2024.
