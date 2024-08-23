@@ -225,10 +225,10 @@ School of Information Science and Technology, ShanghaiTech University.
   + Nanoscale
 
 # 🧑‍🏫 Teaching
-- Course EE150 - **Signal and Systems**, ShanghaiTech University, 2022 Autumn, 2023 Autumn.
+- Course EE150 - **Signal and Systems**, ShanghaiTech University, 2022 Autumn, 2023 Autumn, 2024 Autumn.
 - Course CS270 - **Digital Image Processing**, ShanghaiTech University, 2021 Spring, 2022 Spring, 2023 Spring, 2024 Spring.
 - Course EE290Y - **Physics in Medical Imaging**, ShanghaiTech University, 2021 Summer.
-- Course EE290X - **Electric circuit (Basics)**, ShanghaiTech University, 2021 Autumn, 2022 Autumn.
+- Course EE290X - **Electric circuit (Basics)**, ShanghaiTech University, 2020 Autumn, 2021 Autumn.
 
 # 🧑‍🎓 Group
 - **Ph.D. Students**
