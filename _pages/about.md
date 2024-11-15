@@ -44,8 +44,8 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔊 Position Openings 
- - **Postgraduate Students:** We recruit 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Signal Processing, Image Processing, Medical Imaging, Wave Physics, Artificial Intelligence, Parallel Computation, Circuit Design, Instrumentation, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
- - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Electrical Engineering, Computer Science, Information and Communication Engineering, Biomedical Engineering, Machine Learning, Mathematics, Physics and Acoustics, Information and Communication Engineering, and other related disciplines to join our group;
+ - **Postgraduate Students:** We recruit 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Signal Processing, Image Processing, Medical Imaging, Wave Physics, Artificial Intelligence, Parallel Computation, Circuit Design, Instrumentation, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV.
+ - **Undergraduates/Visting Students:** We warmly welcome students (from ShanghaiTech or other Universities) majored in Electrical Engineering, Computer Science, Information and Communication Engineering, Biomedical Engineering, Machine Learning, Mathematics, Physics and Acoustics, Information and Communication Engineering, and other related disciplines to join our group.
 <!-- - **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachelor's or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required.  -->
 
 <!-- - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. A solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV; -->
@@ -190,6 +190,7 @@ School of Information Science and Technology, ShanghaiTech University.
   + Supervisor: Prof. Katherine W. Ferrara (Member, National Academy of Engineering)
 
 # 🎖️ Awards 
+- *2024* 博士研究生国家奖学金 (awarded to 朱卉).
 - *2024* Student Award Finalist (awarded to Hui Zhu), ISTU.
 - *2024* Student Poster Award Finalist (awarded to Yi Zeng), ISTU.
 - *2024* 最佳反演效果奖 (awarded to 崔世龙), , AI4S Cup-超声CT成像中的声场预测.
