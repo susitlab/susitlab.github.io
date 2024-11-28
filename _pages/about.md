@@ -54,6 +54,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2024.11*: Congratulations to Bowei Yao and Yifei Li! They have successfully defended their Master degree thesis.
 - *2024.11*: Congratulations! Hui Zhu was awarded the 'National scholarship for doctoral students (博士研究生国家奖学金)'.
 - *2024.10*: Our grant proposal received the support from 'Natural Science Foundation of Shanghai'.
 - *2024.08*: Our grant proposal received the support from 'National Natural Science Foundation of China'.
@@ -248,9 +249,12 @@ School of Information Science and Technology, ShanghaiTech University.
   + Yihang Lian (2023 Fall - present): B.E. at Shanghaitech University.
   + Xiaofan Gu (2023 Fall - present): B.E. at Shanghaitech University.
   + Chenyang Li (2023 Fall - present): B.E. at Shangdong University. 
+  + Pengcheng Wan (2024 Fall - present): B.E. at Southwest University of Science and Technology.
 - **Undergrads**
   + Suian Zhou (2023 Fall - present), ShanghaiTech University
 - **Alumni**
+  + Bowei Yao (2021 - 2024), Currently an Engineer at Tencent.
+  + Yifei Li (2021 - 2024), Currently an Engineer at Sifary Medical Technology Co.,Ltd.
   + Gaofei Jin (2020 - 2023), Currently an PhD candidate at the University of Rochester, United States.
   + Xuan Xu (2020 - 2023), Currently an Engineer at Huawei Technologies Co., Ltd.
   + Mancheng Meng (2020 - 2023), Currently an Engineer at United Imaging Healthcare Co.,Ltd.
