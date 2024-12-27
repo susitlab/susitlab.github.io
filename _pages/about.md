@@ -205,8 +205,9 @@ School of Information Science and Technology, ShanghaiTech University.
 # 💬 Talks 
 
 <!-- - *2018.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-- *2023.07* 高分辨率被动空化成像方法研究, 2022-2023全国声学大会, 特邀报告.
+- *2024.11* 多维度高分辨率被动声成像方法, 第五届“气泡动力学青年研讨会”，邀请报告.
 - *2024.03* 聚焦超声治疗及图像引导技术简介, 复旦大学，邀请报告.
+- *2023.07* 高分辨率被动空化成像方法研究, 2022-2023全国声学大会, 邀请报告.
 - *2023.11* 声空化活动的快速定位成像方法研究, 重庆医科大学，邀请报告.
 - *2023.10* 超声空化活动实时大视场成像方法, 西湖国际超声医学论坛暨国际超声造影会议.
 
@@ -240,15 +241,15 @@ School of Information Science and Technology, ShanghaiTech University.
   + Shilong Cui (2021 Fall - present): B.E. at Taiyuan Institute of Technology.
   + Yi Zeng (2022 Fall - present): B.E. at Anhui University.
 - **Master Students**
-  + Bowei Yao (2021 Fall - present): B.S. at Jilin University.
-  + Yifei Li (2021 Fall - present): B.S. at Inner mongolia University.
   + Yiming Huang (2022 Fall - present): B.E. at Shanghai Technology University.
   + Teng Liang (2022 Fall - present): B.E. at Shanghaitech University.
-  + Chenguang Wang (2022 Fall - present): B.E. at Shanghaitech University.
   + Yichen Yang (2022 Fall - present): B.E. at Shanghaitech University.
   + Yihang Lian (2023 Fall - present): B.E. at Shanghaitech University.
   + Xiaofan Gu (2023 Fall - present): B.E. at Shanghaitech University.
   + Chenyang Li (2023 Fall - present): B.E. at Shangdong University. 
+  + Shaoqi Huang (2024 Fall - present): B.E. at Jilin University.
+  + Zihua Liang (2024 Fall - present): B.E. at University of Shanghai for Science and Technology.
+  + Letian Wang (2024 Fall - present): B.E. at Shanghai University of Electric Power.
   + Pengcheng Wan (2024 Fall - present): B.E. at Southwest University of Science and Technology.
 - **Undergrads**
   + Suian Zhou (2023 Fall - present), ShanghaiTech University
