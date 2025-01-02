@@ -186,9 +186,7 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 - **Ring Array Passive Acoustic Mapping Using Hybrid Heterogeneous Angular Spectrum Method**, Hui Zhu, Yiming Huang, Gaofei Jin, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958620/)
 
 - **A switchable deep beamformer for passive acoustic mapping**, Yi Zeng, Hui Zhu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958130/)
-<!-- 
-- **LA-Net: Lung Adenocarcinoma Classification with Assistants from Lung Nodule Classification and Positional Information**, Mancheng Meng, Mianxin Liu, Xianjie Zhang, Yuxuan Liu, Xiran Cai, Yaozong Gao, Xiang Zhou, Dinggang Shen, IEEE 19th International Symposium on Biomedical Imaging, 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9761450/)
---> 
+
 # 📖 Education
 - *2018*, Ph.D., Sorbonne Université. 
   + Supervisor: Prof. Pascal Laugier (Member,  European Academy of Sciences), Prof. Quentin Grimal
