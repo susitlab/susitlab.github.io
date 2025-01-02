@@ -86,7 +86,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 **Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2024**
 
-Yihang Lian; Yi Zeng; Suian Zhou; Hui Zhu; Fei Li*; Xiran Cai*
+Yihang Lian; Yi Zeng; Suian Zhou; Hui Zhu; Fei Li\*; Xiran Cai\*
 
 [[**paper**]](https://ieeexplore.ieee.org/document/10818696)
 </div>
@@ -145,7 +145,7 @@ Josquin Foiret, Xiran Cai, Hanna Bendjador, Eun-Yeong Park, Aya Kamaya, Katherin
 [[**paper**]](https://www.nature.com/articles/s41598-022-16961-2)
 </div>
 </div>
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materialia 2020</div><img src='images/mate20.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -157,7 +157,7 @@ Xiran Cai*, Laura Peralta, Renald Brenner, Gianluca Iori, Didier Cassereau, Kay 
 
 </div>
 </div> 
-
+--> 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Biomater. 2019</div><img src='images/elder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -186,13 +186,12 @@ Xiran Cai*, Hélène Follet, Laura Peralta, Marc Gardegaront, Delphine Farlay, R
 - **Ring Array Passive Acoustic Mapping Using Hybrid Heterogeneous Angular Spectrum Method**, Hui Zhu, Yiming Huang, Gaofei Jin, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958620/)
 
 - **A switchable deep beamformer for passive acoustic mapping**, Yi Zeng, Hui Zhu, Xiran Cai, IEEE International Ultrasonics Symposium (IUS), 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9958130/)
-
+<!-- 
 - **LA-Net: Lung Adenocarcinoma Classification with Assistants from Lung Nodule Classification and Positional Information**, Mancheng Meng, Mianxin Liu, Xianjie Zhang, Yuxuan Liu, Xiran Cai, Yaozong Gao, Xiang Zhou, Dinggang Shen, IEEE 19th International Symposium on Biomedical Imaging, 2022. [[**paper**]](https://ieeexplore.ieee.org/abstract/document/9761450/)
-
+--> 
 # 📖 Education
 - *2018*, Ph.D., Sorbonne Université. 
   + Supervisor: Prof. Pascal Laugier (Member,  European Academy of Sciences), Prof. Quentin Grimal
-<!-- - *2009.09 - 2013.06*, B.S., Northwestern Polytechnical University, Xi'an, China.  -->
 
 # 💻 Work Experience
 - **Assistant Professor** (2020 -now): 
