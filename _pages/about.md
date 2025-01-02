@@ -54,6 +54,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2024.12*: Congratulations, Yihang Lian's work titled "Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10818696)
 - *2024.11*: Congratulations to Bowei Yao and Yifei Li! They have successfully defended their Master degree thesis.
 - *2024.11*: Congratulations! Hui Zhu was awarded the 'National scholarship for doctoral students (博士研究生国家奖学金)'.
 - *2024.10*: Our grant proposal received the support from 'Natural Science Foundation of Shanghai'.
@@ -80,6 +81,16 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 - *2020.09*: SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2024</div><img src='images/Deep_RCA_PAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays, IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2024**
+
+Yihang Lian; Yi Zeng; Suian Zhou; Hui Zhu; Fei Li*; Xiran Cai*
+
+[[**paper**]](https://ieeexplore.ieee.org/document/10818696)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMI 2024</div><img src='images/hws.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
