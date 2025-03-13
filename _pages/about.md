@@ -54,6 +54,7 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 
 # 🔥 News 
 <!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulations to Hongxia Li and Zhongyi Cai! --> 
+- *2025.2*: Congratulations, Yiming Huang's work titled "Geometric a priori informed bent-ray tracing for accelerated sound speed imaging in ultrasound computed tomography" has been accepted by Ultrasonics. Details can be found following the [link](https://www.sciencedirect.com/science/article/pii/S0041624X25000320)
 - *2024.12*: Congratulations, Yihang Lian's work titled "Deep Beamforming for Real-time 3D Passive Acoustic Mapping with Row-Column-Addressed Arrays" has been accepted by IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. Details can be found following the [link](https://ieeexplore.ieee.org/document/10818696)
 - *2024.11*: Congratulations to Bowei Yao and Yifei Li! They have successfully defended their Master degree thesis.
 - *2024.11*: Congratulations! Hui Zhu was awarded the 'National scholarship for doctoral students (博士研究生国家奖学金)'.
@@ -81,6 +82,17 @@ I served as a co-chair for the sessions at IEEE IUS 2023,2024 and ESUCB 2017, an
 - *2020.09*: SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu. 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasonics 2025</div><img src='images/USCTAcceleration.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Geometric a priori informed bent-ray tracing for accelerated sound speed imaging in ultrasound computed tomography, Ultrasonics 2025**
+
+Yiming Huang, Yi Zeng, Shilong Cui, Chengcheng Liu\*, Xiran Cai\*
+
+[[**paper**]](https://www.sciencedirect.com/science/article/pii/S0041624X25000320)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TUFFC 2024</div><img src='images/Deep_RCA_PAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
